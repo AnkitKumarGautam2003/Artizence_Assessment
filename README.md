@@ -43,3 +43,15 @@ Excel file will be created in `output/search_results.xlsx`.
 - Uses **local LLM (Ollama)**
 - Automates **Amazon, Flipkart**, and **travel search (mock)**
 - Saves data to **Excel with multiple sheets**
+
+----
+
+## Sample Outputs
+
+### Excel Report Screenshot
+
+![Amazon Results](assets/sample1.png)
+
+![Flipkart Results](assets/sample2.png)
+
+![Flight Results](assets/sample3.png)
