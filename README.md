@@ -51,3 +51,5 @@ Excel file will be created in `output/search_results.xlsx`.
 ### Excel Report Screenshot
 
 ![Amazon Results](https://github.com/AnkitKumarGautam2003/Artizence_Assessment/blob/main/Screenshot%20(120).png?raw=true)
+![Search Results](https://github.com/AnkitKumarGautam2003/Artizence_Assessment/blob/main/Screenshot%20(121).png?raw=true)
+![Output](https://github.com/AnkitKumarGautam2003/Artizence_Assessment/blob/main/Screenshot%20(122).png?raw=true)
