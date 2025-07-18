@@ -4,7 +4,7 @@ Python project to search products on **Amazon** and **Flipkart**, or flights via
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Install dependencies
 
@@ -38,7 +38,7 @@ Excel file will be created in `output/search_results.xlsx`.
 
 ---
 
-## ✅ Features
+## Features
 
 - Uses **local LLM (Ollama)**
 - Automates **Amazon, Flipkart**, and **travel search (mock)**
