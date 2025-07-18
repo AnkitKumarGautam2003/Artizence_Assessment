@@ -50,8 +50,4 @@ Excel file will be created in `output/search_results.xlsx`.
 
 ### Excel Report Screenshot
 
-![Amazon Results](assets/sample1.png)
-
-![Flipkart Results](assets/sample2.png)
-
-![Flight Results](assets/sample3.png)
+![Amazon Results](https://github.com/AnkitKumarGautam2003/Artizence_Assessment/blob/main/Screenshot%20(120).png?raw=true)
